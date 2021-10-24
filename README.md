@@ -5,13 +5,11 @@
 <h2 align="center">Currently Working On...</h2>
 <ul>
   <li align="center">Completing my Bachelor's in Software Engineering at McGill University</li>
-  <li align="center">Completing my Portfolio Website</li>
+  <li align="center">Completing my <a href="https://keanutan.github.io/portfolio-draft/">Portfolio Website</a></li>
   <li align="center">Finidng an Internship</li>
-  <li align="center">If you would like to contact me, send an email at <strong>keanu.natchev@gmail.com</strong></li>
+  <li align="center">If you would like to contact me, send an email at <strong>keanu.natchev@gmail.com</strong> and/or add me on <a href="https://www.linkedin.com/in/keanu-natchev/">LinkedIn</a></li>
 </ul>
 
-<br>
-<br>
 <br>
 
 <h2 align="center">Programming Languages</h2>
@@ -74,10 +72,6 @@
   &nbsp;&nbsp;
   <img alt="Language Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keanutan&layout=compact&langs_count=10" />
 </p>
-
-
-
-
 
 <!--
 **keanutan/keanutan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
