@@ -33,21 +33,21 @@
   <img alt="Gradle" src="https://shields.io/badge/Gradle-02303A?logo=gradle&style=for-the-badge&logoColor=white">
   <img alt="Maven" src="https://shields.io/badge/Maven-F02A2A?logo=apachemaven&style=for-the-badge&logoColor=white">
   <img alt="Heroku" src="https://shields.io/badge/Heroku-6762A6?logo=heroku&style=for-the-badge&logoColor=white">
-  <img alt="Travis CI" src="https://shields.io/badge/Tarvis--CI-A54444?logo=travisci&style=for-the-badge&logoColor=white">
+  <img alt="Travis CI" src="https://shields.io/badge/Tarvis%20CI-A54444?logo=travisci&style=for-the-badge&logoColor=white">
 </p>
 
 <h2 align="center">Frameworks</h2>
 <p align="center">
-  <img alt="Spring Boot" src="https://shields.io/badge/Spring--Boot-6DB33F?logo=springboot&style=for-the-badge&logoColor=white">
+  <img alt="Spring Boot" src="https://shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&style=for-the-badge&logoColor=white">
   <img alt="React" src="https://shields.io/badge/React-57C4E2?logo=react&style=for-the-badge&logoColor=white">
   <img alt="Vue" src="https://shields.io/badge/Vue.js-42b883?logo=vuedotjs&style=for-the-badge&logoColor=white">
 </p>
 
 <h2 align="center">Development Environments</h2>
 <p align="center">
-  <img alt="Visual Studio Code" src="https://shields.io/badge/Visual--Studio--Code-0078d7?logo=visualstudiocode&style=for-the-badge&logoColor=white">
+  <img alt="Visual Studio Code" src="https://shields.io/badge/Visual%20Studio%20Code-0078d7?logo=visualstudiocode&style=for-the-badge&logoColor=white">
   <img alt="Eclipse" src="https://shields.io/badge/Eclipse-443583?logo=eclipseide&style=for-the-badge&logoColor=white">
-  <img alt="Adobe Dreamweaver" src="https://shields.io/badge/Adobe--Dreamweaver-3D5136?logo=adobedreamweaver&style=for-the-badge&logoColor=white">
+  <img alt="Adobe Dreamweaver" src="https://shields.io/badge/Adobe%20Dreamweaver-3D5136?logo=adobedreamweaver&style=for-the-badge&logoColor=white">
 </p>
 
 <h2 align="center">Operating Systems</h2>
@@ -60,14 +60,14 @@
 <h2 align="center">Other</h2>
 <p align="center">
   <img alt="Figma" src="https://shields.io/badge/Figma-ff7262?logo=figma&style=for-the-badge&logoColor=white">
-  <img alt="Adobe Photoshop" src="https://shields.io/badge/Adobe--Photoshop-77A7D9?logo=adobephotoshop&style=for-the-badge&logoColor=white">
-  <img alt="Adobe Premiere Pro" src="https://shields.io/badge/Adobe--Premiere--Pro-CE8BDC?logo=adobepremierepro&style=for-the-badge&logoColor=white">
-  <img alt="Microsoft Office" src="https://shields.io/badge/Microsoft--Office-DC3E15?logo=microsoftoffice&style=for-the-badge&logoColor=white">
+  <img alt="Adobe Photoshop" src="https://shields.io/badge/Adobe%20Photoshop-77A7D9?logo=adobephotoshop&style=for-the-badge&logoColor=white">
+  <img alt="Adobe Premiere Pro" src="https://shields.io/badge/Adobe%20Premiere%20Pro-CE8BDC?logo=adobepremierepro&style=for-the-badge&logoColor=white">
+  <img alt="Microsoft Office" src="https://shields.io/badge/Microsoft%20Office-DC3E15?logo=microsoftoffice&style=for-the-badge&logoColor=white">
 </p>
 
 <br>
 
-<h2 align="center">Some statistics</h2>
+<h2 align="center">Some Statistics</h2>
 <p align="center">
   <img alt="Github Statistics" src="https://github-readme-stats.vercel.app/api?username=keanutan&show_icons=true&count_private=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=000000&bg_color=000000&border_radius=10" />
   &nbsp;&nbsp;
