@@ -57,6 +57,7 @@
   <img alt="Ubuntu" src="https://shields.io/badge/Ubuntu-DD4814?logo=ubuntu&style=for-the-badge&logoColor=white">
 </p>
 
+<h2 align="center">Other</h2>
 <p align="center">
   <img alt="Figma" src="https://shields.io/badge/Figma-ff7262?logo=figma&style=for-the-badge&logoColor=white">
   <img alt="Adobe Photoshop" src="https://shields.io/badge/Adobe--Photoshop-77A7D9?logo=adobephotoshop&style=for-the-badge&logoColor=white">
