@@ -33,7 +33,7 @@
   <img alt="Gradle" src="https://shields.io/badge/Gradle-02303A?logo=gradle&style=for-the-badge&logoColor=white">
   <img alt="Maven" src="https://shields.io/badge/Maven-F02A2A?logo=apachemaven&style=for-the-badge&logoColor=white">
   <img alt="Heroku" src="https://shields.io/badge/Heroku-6762A6?logo=heroku&style=for-the-badge&logoColor=white">
-  <img alt="Travis CI" src="https://shields.io/badge/Tarvis%20CI-A54444?logo=travisci&style=for-the-badge&logoColor=white">
+  <img alt="Travis CI" src="https://shields.io/badge/Travis%20CI-A54444?logo=travisci&style=for-the-badge&logoColor=white">
 </p>
 
 <h2 align="center">Frameworks</h2>
