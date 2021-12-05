@@ -21,6 +21,7 @@
   <img alt="HTML" src="https://shields.io/badge/HTML5-E65522?logo=html5&style=for-the-badge&logoColor=white">
   <img alt="Javascript" src="https://shields.io/badge/Javascript-E6DC22?logo=javascript&style=for-the-badge&logoColor=black">
   <img alt="CSS" src="https://shields.io/badge/CSS3-226CE6?logo=css3&style=for-the-badge&logoColor=white">
+  <img alt="OCaml" src="https://shields.io/badge/OCAML-EC6813?logo=ocaml&style=for-the-badge&logoColor=white">
   <img alt="VHDL" src="https://shields.io/badge/VHDL-orange?&style=for-the-badge&logoColor=white">
   <img alt="Arm Assembly" src="https://shields.io/badge/ARM-22D2E6?&style=for-the-badge&logoColor=white">
   <img alt="BASH" src="https://shields.io/badge/BASH-black?logo=gnubash&style=for-the-badge&logoColor=white">
